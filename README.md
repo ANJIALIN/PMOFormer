@@ -4,10 +4,9 @@
 
 ## Non-HD online One device Video
 
-Fault diagnosis: https://1drv.ms/v/s!AiAkXVTsTklcpkvxRvK38z-0ihGS?e=XIK74B
+Fault diagnosis: https://1drv.ms/v/s!AiAkXVTsTklcqTUQJAIEXxsMekUO?e=6o2Ki3
 
-Distance prediction: https://1drv.ms/v/s!AiAkXVTsTklcpknlLpOaB1Ri_JZu?e=7WyDFg
-
+Distance prediction: https://1drv.ms/v/s!AiAkXVTsTklcqTTPnWGZWZpFOwaT?e=gZWNfq
 ## Google Drive
 
 Link: https://drive.google.com/drive/folders/1-y8k0lppKywkbIwJCXEmLJ-V4qa9GXUC?usp=sharing
