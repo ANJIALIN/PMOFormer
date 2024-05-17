@@ -2,6 +2,8 @@
 
  This is the actual test video we provided after the deployment of the PMNFormer model to help readers understand the application process of the proposed method more clearly.
 
+ Author email：anjialin8@gmail.com
+
 ## Non-HD online One device Video
 
 Fault diagnosis: https://1drv.ms/v/s!AiAkXVTsTklcqTUQJAIEXxsMekUO?e=6o2Ki3
